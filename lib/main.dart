@@ -15,6 +15,14 @@ class App extends StatelessWidget {
       create: (_) => TodosController(),
       child: MaterialApp(
         title: 'State Notifier Todo Demo',
+        title: 'State Notifier Todo Demo',
+        title: 'State Notifier Todo Demo',
+        title: 'State Notifier Todo Demo',
+        title: 'State Notifier Todo Demo',
+        title: 'State Notifier Todo Demo',title: 'State Notifier Todo Demo',
+        title: 'State Notifier Todo Demo',
+
+
         debugShowCheckedModeBanner: false,
         home:
             StateNotifierProvider<FilteredTodosController, FilteredTodosState>(
